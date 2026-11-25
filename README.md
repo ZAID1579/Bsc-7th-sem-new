@@ -1,4 +1,4 @@
-# Lab VII - AI & Machine Learning (Weeks 5-12)
+# Lab VII - AI & Machine Learning (Weeks 1-12)
 
 B.Sc. (CA) VII Semester, Department of Computer Science, AMU (2026-27).
 Course code for the lab manual: CABSMJ7P01.
@@ -10,6 +10,10 @@ Every program was run and its output verified for the lab record.
 
 | File | Week | Topics |
 |---|---|---|
+| [week01.py](week01.py) | Week 1 | Advanced Python Data Structures and Functional Programming |
+| [week02.py](week02.py) | Week 2 | Object-Oriented Programming in Python |
+| [week03.py](week03.py) | Week 3 | Uninformed Search: Breadth-First and Depth-First Search |
+| [week04.py](week04.py) | Week 4 | Informed Search: Best-First Search and A* |
 | [week05.py](week05.py) | Week 5 | Data Cleaning and Integration (Titanic, IQR outliers) |
 | [week06.py](week06.py) | Week 6 | Feature Selection, Normalization, Discretization (California Housing, Iris, Adult Income) |
 | [week07.py](week07.py) | Week 7 | Supervised Learning: KNN and Linear Regression |
